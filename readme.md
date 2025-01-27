@@ -1,7 +1,9 @@
-Shields
-=======
+Shields Up
+==========
 
 A simulated spacecraft
+
+![FLUX.1-dev spacecraft](https://github.com/user-attachments/assets/010293a3-c661-45d2-a740-185fc8b2e864)
 
 Learning Outcomes
 -----------------
