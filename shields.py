@@ -29,6 +29,11 @@ class Ship:
     """
 
     def __init__(self):
+        """
+        Constructor
+        
+        Initialize subsystems and set initial values
+        """
         self._hull = 100
         self._shields = Subsystem(1)
         self._weapons = Subsystem(1)
