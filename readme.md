@@ -19,6 +19,7 @@ Tasks
     1. Create getter for `power` using `@property`
     2. Create a setter for `power` using `@power.setter`
         - Be sure to raise a value error if a user attempts to set a negative power
+    3. Create read-only property `online` that is `True` if the system is using any power
 2. Complete the `Ship` class
     1. Complete the `shutdown` method to take all systems offline and consume no power
     2. Complete the `raise_shields_to_maximum` method that diverts all power to shields and shuts down all other systems
