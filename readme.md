@@ -34,4 +34,4 @@ Handout code is provided in [shields.py](shields.py)
 Resources
 ---------
 
-- Python documentumentation for [`property` function](https://docs.python.org/3/library/functions.html#property) and decorators.
+- Python documentation for [`property` function](https://docs.python.org/3/library/functions.html#property) and decorators.
