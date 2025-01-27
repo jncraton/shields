@@ -37,7 +37,7 @@ class Ship:
         self._subsystems = [self._shields, self._weapons, self._engines]
 
     def shutdown(self):
-        """Move all power to the shields"""
+        """Shutdown all systems"""
 
     def raise_shields_to_maximum(self):
         """Move all power to the shields"""
