@@ -17,6 +17,8 @@ After completing this lab, students will be able to:
 Tasks
 -----
 
+Handout code is provided in [shields.py](shields.py)
+
 1. Complete the `Subsystem` class
     1. Create getter for `power` using `@property`
     2. Create a setter for `power` using `@power.setter`
@@ -28,3 +30,8 @@ Tasks
     3. Complete the `apply_damage` method to apply hull damage to the ship
     4. Complete the `get_available_energy` method to determine how much free energy is available
     5. Create getters and setters for `shields`, `weapons`, and `engines`. Raise a ValueError if there is not enough energy to satisfy a request or negative values are provided
+
+Resources
+---------
+
+- Python documentumentation for [`property` function](https://docs.python.org/3/library/functions.html#property) and decorators.
