@@ -31,7 +31,7 @@ class Ship:
     def __init__(self):
         """
         Constructor
-        
+
         Initialize subsystems and set initial values
         """
         self._hull = 100
