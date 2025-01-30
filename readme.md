@@ -25,7 +25,7 @@ Handout code is provided in [shields.py](shields.py)
         - Be sure to raise a value error if a user attempts to set a negative power
     3. Create read-only property `online` that is `True` if the system is using any power
 2. Complete the `Ship` class
-    1. Complete the `shutdown` method to take all systems offline and consume no power
+    1. Complete the `shutdown` method to take all systems offline and consume no power. The reactor power remains at 5.
     2. Complete the `raise_shields_to_maximum` method that diverts all power to shields and shuts down all other systems
     3. Complete the `apply_damage` method to apply hull damage to the ship
     4. Complete the `get_available_energy` method to determine how much free energy is available
